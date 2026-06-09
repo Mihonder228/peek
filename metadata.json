@@ -1,0 +1,8 @@
+{
+  "name": "Peek Horror",
+  "description": "3D horror game where you must carefully peek around the wall to survive the monster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
